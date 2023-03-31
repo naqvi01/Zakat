@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567486860857",
+    "project_id": "gdscsol-ad61b",
+    "storage_bucket": "gdscsol-ad61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567486860857:android:a4a1f943c32ffb8dacc7e8",
+        "android_client_info": {
+          "package_name": "com.example.imagecompresser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567486860857-pjr2dr160v87vc7e7s5o83bnen2am2kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNaOBPJcP9ee37X7VPVvKBXGXfGKTi3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567486860857-pjr2dr160v87vc7e7s5o83bnen2am2kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
